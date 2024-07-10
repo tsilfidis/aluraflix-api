@@ -116,17 +116,17 @@
   "categorias": [
   {
     "id": 1,
-    "system": "PC",
+    "system": "Back-End",
     "color": "#6BD1FF"
   },
   {
     "id": 2,
-    "system": "Nintendo Switch",
+    "system": "Front-End",
     "color": "#00C86F"
   },
   {
     "id": 3,
-    "system": "PlayStation 4",
+    "system": "Moblile",
     "color": "#FFBA05"
   },
   {

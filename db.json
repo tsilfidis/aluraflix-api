@@ -136,6 +136,16 @@
     "id": 3,
     "system": "Mobile",
     "color": "#FFBA05"
+  },
+  {
+    "id": 4,
+    "system": "Inovação",
+    "color": "#FF5733"
+  },
+  {
+    "id": 3,
+    "system": "Gestão",
+    "color": "#BB33FF"
   }
 ]
 }

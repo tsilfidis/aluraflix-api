@@ -2,123 +2,139 @@
   "filmes": [
   {
     "id": 1,
-    "title": "Papers Please",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/header.jpg?t=1678266428",
-    "link": "https://www.youtube.com/embed/DmqkpRaSg2g?si=LgIy7URA2-N9Rpr8",
+    "title": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+    "cover": "https://i.ytimg.com/vi/fiPfvylj6rk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3JKY8wNFerlmX-AlJPoAvs7HKdQ",
+    "link": "https://www.youtube.com/embed/fiPfvylj6rk",
     "system": "Back-End",
-    "description": "Congratulações. A loteria de outubro foi concluída. Seu nome foi selecionado.Compareça ao Ministério da Admissão no Posto da Fronteira de Grestin para relocação imediata.Um apartamento será providenciado para você e sua família em Grestin Leste.Glória à Arstotzka."
+    "description": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira?..."
   },
   {
-    "id": 3,
-    "title": "Mega Man 11",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/742300/header.jpg?t=1701220165",
-    "link": "https://www.youtube.com/embed/FVSvd7Qnkq0",
+    "id": 2,
+    "title": "O que faz uma desenvolvedora front-end?",
+    "cover": "https://i.ytimg.com/vi/ZY3-MFxVdEw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwf1Dl_d42K2KXTkScHVr9bdVcYw",
+    "link": "https://www.youtube.com/embed/ZY3-MFxVdEw",
     "system": "Front-End",
-    "description": "Mega Man está de volta à ação! A mais nova entrada na série que vendeu milhões mistura a clássica desafiadora ação de plataforma 2D com um novo estilo visual. O novo sistema de equipamento duplo adiciona uma novidade à satisfatória jogabilidade pela qual a série é conhecida."
+    "description": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse..."
+  },
+  {
+    "id": 2,
+    "title": "Desmistificando Mobile- Por onde eu começo? #01",
+    "cover": "https://i.ytimg.com/vi/2z6f8VN_Pro/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQKTD3oi7xt46IhwPg_-iQ8hQ9SQ",
+    "link": "https://www.youtube.com/embed/2z6f8VN_Pro",
+    "system": "Mobile",
+    "description": "Tem série nova no canal 🤩 A Websérie “Desmistificando o mobile” vêm aí para simplificar com exemplos práticos vários assuntos envolvendo o mundo dos aplicativos de celular e neste..."
   },
   {
     "id": 4,
-    "title": "God of War III Remastered",
-    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2917/oqIXDTKAcEOwAPzM7GhEZ0rW.jpg",
-    "link": "https://www.youtube.com/embed/4z93rQGZP1Y",
-    "system": "Mobile",
-    "description": "God of War III Remasterizado é o jogo para um jogador aclamado pela crítica que permite ao jogador assumir o papel do destemido ex-guerreiro espartano Kratos, em sua ascensão das profundezas obscuras de Hades para escalar as altitudes do Monte Olimpo e buscar sua vingança sangrenta contra aqueles que o traíram."
+    "title": "JavaScript para back-end",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/header.jpg?t=1577393306",
+    "link": "https://www.youtube.com/embed/uyRDbGZG92E",
+    "system": "Back-End",
+    "description": "Nesse episódio do Hipsters.Talks vamos conversar sobre a utilização de JavaScript para back-end e conhecer mais sobre sua aplicação no dia a dia de desenvolvimento."
   },
   {
     "id": 5,
-    "title": "Fable Anniversary",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/header.jpg?t=1577393306",
-    "link": "https://www.youtube.com/embed/cQwFCnibkhM",
-    "system": "Back-End",
-    "description": "Para cada escolha uma consequencia. Totalmente Remasterizado com visuais HD, Fable Anniversary é uma incrível recaptulação do jogo original that vai agradar os fans e novos jogadores! A nova dificuldade heróica vai testar a fervor até os jogadores mais aficcionados."
+    "title": "Como testar seu Front-end? com Mario Souto",
+    "cover": "https://i.ytimg.com/vi/CaTbfdsVydE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_N_0DryhJpQKCobwCulhW4QiLBg",
+    "link": "https://www.youtube.com/embed/CaTbfdsVydE",
+    "system": "Front-End",
+    "description": "Por onde começar a testar as habilidades em Front-end? Se você tem dúvidas na hora de testar softwares e colocar em prática técnicas modernas, esse vídeo vai te ajudar. O @DevSoutinho..."
   },
   {
     "id": 6,
-    "title": "Super Mario 3D Land",
-    "cover": "https://www.thecoverproject.net/uploads/pending/3ds.supermario3dland_US.1718405691905643201_thumb.jpg",
-    "link": "https://www.youtube.com/embed/TzIgKFBhfyc?si=Tw3_x6jupM7Ki3PI",
-    "system": "Front-End",
-    "description": "Este jogo é baseado fortemente no original Super Mario Bros video game. Upgrades em Super Mario Land 3D incluem Super Mario, o que aumenta o tamanho ea saúde do Mario, Fire Mario, que permite que Mario atirar bolas de fogo, e Tanooki Mario, o que lhe permite executar um ataque de giro e vibração no ar."
+    "title": "Desmistificando mobile- Linguagens e Frameworks #2",
+    "cover": "https://i.ytimg.com/vi/fmu1LQvZhms/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKsy4-ob1r6zAdYEPZIqKs45E4wQ",
+    "link": "https://www.youtube.com/embed/fmu1LQvZhms",
+    "system": "Mobile",
+    "description": "Segundo episódio no ar! 🥳 No segundo episódio da websérie “Desmistificando o mobile” vamos entender um pouco sobre o que é feito após ser inserido no mundo dos apps: conhecer um..."
   },
   {
     "id": 7,
-    "title": "New Super Mario Bros. 2",
-    "cover": "https://upload.wikimedia.org/wikipedia/pt/3/3e/NewSuperMarioBros2.png",
-    "link": "https://www.youtube.com/embed/RLPhf6WKP88?si=cN2kPrrlcQxq08gB",
-    "system": "Mobile",
-    "description": "Em New Super Mario Bros. 2, cada nível está cheio de ouro, moedas jorram pelos canos, inimigos dourados deixam uma trilha de moedas para trás e canos de ouro transportam Mario para cavernas cheias de tesouros."
-  },
-  {
-    "id": 8,
-    "title": "Liberation Maiden",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/7/75/Liberation_Maiden_cover.png",
-    "link": "https://www.youtube.com/embed/IOTHgHIGqZw?si=FQbceKfxQ3O0E1CE",
+    "title": "Arquitetura de sistemas com Fabio Akita",
+    "cover": "https://i.ytimg.com/vi/oedWxgAZc2A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh1MgE3gCH4NYLtRX-5a1pJ2qU-g",
+    "link": "https://www.youtube.com/embed/oedWxgAZc2A",
     "system": "Back-End",
     "description": "Liberation Maiden se passa em um Japão futurista chamado de New Japan. O país, abundante em produção de energia, é atacado por um grupo terrorista chamado The Dominion, que tem o objetivo de roubar toda a energia do lugar. Nesse meio tempo, o presidente é assassinado e sua filha, Shoko, assume seu cargo."
   },
   {
-    "id": 9,
-    "title": "Kid Icarus: Uprising",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/9/97/Kid_Icarus-Uprising_logo.jpg",
-    "link": "https://www.youtube.com/embed/YyUMXFprsZs?si=N9zNS7exGJAQ7-DZ",
+    "id": 8,
+    "title": "Guia de carreira Front-end",
+    "cover": "https://i.ytimg.com/vi/fpth65ts3cw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCq0Y4u5eRSTfO65M7NnR4EDYQHCQ",
+    "link": "https://www.youtube.com/embed/fpth65ts3cw",
     "system": "Front-End",
-    "description": "Kid Icarus Uprising é uma sequência direta ao jogo clássico NES, e ocorre 25 anos após o Kid Icarus original. O enredo é, na verdade dividido em dois arcos de história, o primeiro dos quais dispõe a batalha contra Medusa e seus asseclas de retorno, enquanto a segunda narra a ameaça dos deuses, Hades e Viridi contra a raça humana. No primeiro arco da história, Medusa foi revivida, e mais uma vez tenta erradicar os mortais, enquanto busca vingança contra Pit e Palutena."
+    "description": "Nesse primeiro episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado. São 3 níveis de Profundidade e 1 nível de Expansão, formando seu perfil como Dev Front-End em T."
+  },
+  {
+    "id": 9,
+    "title": "Desenvolvimento Android",
+    "cover": "https://i.ytimg.com/vi/fWscDFHKgw8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9nvcHnJVvTJXNUFs2YjQiF_G4Og",
+    "link": "https://www.youtube.com/embed/fWscDFHKgw8",
+    "system": "Mobile",
+    "description": "Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais..."
   },
   {
     "id": 10,
-    "title": "The Legend of Zelda: A Link Between Worlds",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/1/1b/The_Legend_of_Zelda_A_Link_Between_Worlds_NA_cover.jpg",
-    "link": "https://www.youtube.com/embed/rjldUy7F_Zs?si=7JIVeYGHhUqfGecD",
-    "system": "Mobile",
-    "description": "The Legend of Zelda: A Link Between Worlds apresenta um novíssimo conjunto de quebra-cabeças e masmorras. Desta vez, Link move-se entre paredes como se estivesse desenhado nelas, o que alterará completamente o teu ponto de vista, permitindo-te pensar de novas formas para resolveres novos quebra-cabeças."
+    "title": "Principais dúvidas sobre programação",
+    "cover": "https://i.ytimg.com/vi/jpuJ1qrluoU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDcWt1FtQ-YWDpHP9MybqWkjsvklw",
+    "link": "https://www.youtube.com/embed/jpuJ1qrluoU",
+    "system": "Back-End",
+    "description": "Orientação a objetos com Roberta Arcoverde"
   },
   {
     "id": 11,
-    "title": "X-Men Origin: Wolverine",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/a/aa/X-Menoriginsvideo_game.jpg",
-    "link": "https://www.youtube.com/embed/Ow-yJdXBdBs?si=52XUt01nURgBzMms",
-    "system": "Back-End",
-    "description": "O jogo segue a história do filme, mostrando (de uma forma bem mais resumida) o passado romântico e violento do Wolverine, pondo em foco as antigas missões na África e o surgimento da Arma X. Ao longo do jogo, o seu principal objetivo se torna buscar vingança pela falsa morte de sua amada."
-  },
-  {
-    "id": 12,
-    "title": "Outlast 2",
-    "cover": "https://upload.wikimedia.org/wikipedia/pt/8/8a/Outlast_2_Cover_Art.jpg",
-    "link": "https://www.youtube.com/embed/fbGy57vhcms?si=0_Fdff6TRlPMVl3P",
+    "title": "Guia de carreira React JS",
+    "cover": "https://i.ytimg.com/vi/0tS4lUq_7iA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCp4vTcQwPqzfF11ojZKYcGR0fmQQ",
+    "link": "https://www.youtube.com/embed/0tS4lUq_7iA",
     "system": "Front-End",
     "description": "Outlast 2 é a sequela do aclamado jogo de horror de sobrevivência, Outlast. Situado no mesmo universo do primeiro jogo mas com personagens e um cenário diferentes, Outlast 2 é uma nova e retorcida viagem às profundezas da mente humana e aos segredos nela ocultos."
   },
   {
-    "id": 13,
-    "title": "Limbo",
-    "cover": "https://upload.wikimedia.org/wikipedia/pt/8/8c/Capa_de_Limbo.jpg",
-    "link": "https://www.youtube.com/embed/zaonmJxFQxk?si=LDwzzQ3Uhdyrn1nM",
+    "id": 12,
+    "title": "Desenvolvimento iOS pra iniciantes com Giovanna Moeller",
+    "cover": "https://i.ytimg.com/vi/MGIs7DSQ-0A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG2NA8l2mecsJxAlmcF79mBzBvUg",
+    "link": "https://www.youtube.com/embed/MGIs7DSQ-0A",
     "system": "Mobile",
-    "description": "Limbo é um sidescroller 2D, incorporando um sistema de física que administra os objetos ambientais e o personagem do jogador. O jogador guia um menino anônimo através de ambientes e armadilhas perigosas enquanto procura por sua irmã mais velha."
+    "description": "Por onde começar em iOS? Qual linguagem é importante dominar? Quais ferramentas necessárias para mergulhar no desenvolvimento iOS? 🤔 O @DevSoutinho é o host desse episódio e ele recebeu..."
+  },
+  {
+    "id": 13,
+    "title": "Guia de Carreira JAVA",
+    "cover": "https://i.ytimg.com/vi/TUBqH9zVs3M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAFAuO1jesxN7-gfHSAXGMNQxLrWw",
+    "link": "https://www.youtube.com/embed/TUBqH9zVs3M",
+    "system": "Back-End",
+    "description": "4º ep. da temporada! Com o Guia de Carreira Java, saiba o que é e para que serve o Java e descubra o passo a passo para sair do INICIANTE ao AVANÇADO. Desde os fundamentos e a Orientação a Objetos (POO), passando por testes, pacotes e coleções, até mergulhos mais profundos nessa linguagem de programação que você vai se interessar, como: Spring Framework e Spring Boot, velocidade de Compilação, JVM, Maven, Padrões de Projeto, SOLID, SQL, Kafka, Microsserviços, JUnit, Mock, Git, GitHub e muito mais!"
   },
   {
     "id": 14,
-    "title": "Resident Evil 4",
-    "cover": "https://i.pinimg.com/736x/81/91/8f/81918f94bb9006d586ed794e32c0e151.jpg",
-    "link": "https://www.youtube.com/embed/AzvaN_jA1Ak?si=tyLqDe8-53Q0poyT",
-    "system": "Back-End",
-    "description": "Seis anos após os eventos de Resident Evil 2, Leon Kennedy, sobrevivente de Raccoon City, foi enviado a um vilarejo isolado na Europa para investigar o desaparecimento da filha do presidente dos Estados Unidos. O que ele descobre lá é diferente de tudo o que ele já enfrentou antes."
-  },
-  {
-    "id": 15,
-    "title": "Shadow of the Colossus",
-    "cover": "https://upload.wikimedia.org/wikipedia/pt/6/66/ShadowOfTheColossusGH.jpg",
-    "link": "https://www.youtube.com/embed/r_ST15Ie-Ts?si=4fVRCbztQ8QY4dPE",
+    "title": "Como deixar o Layout Responsivo no seu site",
+    "cover": "https://i.ytimg.com/vi/kyFiT4ofMwk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgzoSCrSN55x02BMGeTrJc8tF1bw",
+    "link": "https://www.youtube.com/embed/kyFiT4ofMwk",
     "system": "Front-End",
-    "description": "SHADOW OF THE COLOSSUS é uma jornada espetacular por terras antigas em busca de feras gigantes. Armado com uma espada e um arco, explore os vastos terrenos e revele cada Colossus, cada um com um desafio único para testar sua inteligência, determinação e habilidade."
+    "description": "Aprenda responsividade na prática com este tutorial sobre como transformar seu site num layout responsivo através do uso de ferramentas de desenvolvedor do seu navegador, o visual studio code e códigos CSS: media screen, container, propriedades CSS e mais."
   },
   {
     "id": 15,
-    "title": "Shadow of the Colossus",
-    "cover": "https://upload.wikimedia.org/wikipedia/pt/6/66/ShadowOfTheColossusGH.jpg",
-    "link": "https://www.youtube.com/embed/r_ST15Ie-Ts?si=4fVRCbztQ8QY4dPE",
+    "title": "Nativos: Android e iOS | Desmistificando Mobile- Ep #03",
+    "cover": "https://i.ytimg.com/vi/9V48oXZdXgQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmpzZ6DqNBiW9rP_D7b7JDBUPoTQ",
+    "link": "https://www.youtube.com/embed/9V48oXZdXgQ",
     "system": "Mobile",
-    "description": "SHADOW OF THE COLOSSUS é uma jornada espetacular por terras antigas em busca de feras gigantes. Armado com uma espada e um arco, explore os vastos terrenos e revele cada Colossus, cada um com um desafio único para testar sua inteligência, determinação e habilidade."
+    "description": "Terceiro episódio no ar! 😎 Agora que a Helô já que sabe que existem muitas linguagens de programação em mobile e que ela pode escolher qual se encaixa melhor no seu projeto de “como fazer meu primeiro app” ela vai conversar com Alex Felipe, especialista em Android e com a Giovanna Moeller, dev iOS para entender um pouco do mundo dos nativos para desenvolver aplicativos 🤩"
+  },
+  {
+    "id": 16,
+    "title": "As 9 Softskills mais desejadas pelas empresas",
+    "cover": "https://i.ytimg.com/vi/SjY0zj17-8U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCd6xj0PZILKZ-uYlW4iZ3MTYLhdw",
+    "link": "https://www.youtube.com/embed/SjY0zj17-8U",
+    "system": "Inovação",
+    "description": "O que são as Softskills e por que é tão importante desenvolvê-las para se posicionar no mercado de trabalho? Neste Alura+, a Pri Stuani fala sobre as 9 habilidades comportamentais mais buscadas por empresas em seus profissionais e como elas te auxiliam no dia a dia."
+  },
+  {
+    "id": 17,
+    "title": "Semana de Agilidade: Lean, Agile e Inovação, com Alexandre Abdalla, da Totvs",
+    "cover": "https://i.ytimg.com/vi/9V48oXZdXgQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmpzZ6DqNBiW9rP_D7b7JDBUPoTQ",
+    "link": "https://www.youtube.com/embed/NR8yKbPdkMQ",
+    "system": "Gestão",
+    "description": "Neste papo com a Totvs, vamos conversar sobre as principais diferenças entre a gestão de projetos cascata e ágil."
   }
 ],
   "categorias": [

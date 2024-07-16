@@ -97,30 +97,6 @@
     "description": "Por onde começar em iOS? Qual linguagem é importante dominar? Quais ferramentas necessárias para mergulhar no desenvolvimento iOS? 🤔 O @DevSoutinho é o host desse episódio e ele recebeu..."
   },
   {
-    "id": 13,
-    "title": "Guia de Carreira JAVA",
-    "cover": "https://i.ytimg.com/vi/TUBqH9zVs3M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAFAuO1jesxN7-gfHSAXGMNQxLrWw",
-    "link": "https://www.youtube.com/embed/TUBqH9zVs3M",
-    "system": "Back-End",
-    "description": "4º ep. da temporada! Com o Guia de Carreira Java, saiba o que é e para que serve o Java e descubra o passo a passo para sair do INICIANTE ao AVANÇADO. Desde os fundamentos e a Orientação a Objetos (POO), passando por testes, pacotes e coleções, até mergulhos mais profundos nessa linguagem de programação que você vai se interessar, como: Spring Framework e Spring Boot, velocidade de Compilação, JVM, Maven, Padrões de Projeto, SOLID, SQL, Kafka, Microsserviços, JUnit, Mock, Git, GitHub e muito mais!"
-  },
-  {
-    "id": 14,
-    "title": "Como deixar o Layout Responsivo no seu site",
-    "cover": "https://i.ytimg.com/vi/kyFiT4ofMwk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgzoSCrSN55x02BMGeTrJc8tF1bw",
-    "link": "https://www.youtube.com/embed/kyFiT4ofMwk",
-    "system": "Front-End",
-    "description": "Aprenda responsividade na prática com este tutorial sobre como transformar seu site num layout responsivo através do uso de ferramentas de desenvolvedor do seu navegador, o visual studio code e códigos CSS: media screen, container, propriedades CSS e mais."
-  },
-  {
-    "id": 15,
-    "title": "Nativos: Android e iOS | Desmistificando Mobile- Ep #03",
-    "cover": "https://i.ytimg.com/vi/9V48oXZdXgQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmpzZ6DqNBiW9rP_D7b7JDBUPoTQ",
-    "link": "https://www.youtube.com/embed/9V48oXZdXgQ",
-    "system": "Mobile",
-    "description": "Terceiro episódio no ar! 😎 Agora que a Helô já que sabe que existem muitas linguagens de programação em mobile e que ela pode escolher qual se encaixa melhor no seu projeto de “como fazer meu primeiro app” ela vai conversar com Alex Felipe, especialista em Android e com a Giovanna Moeller, dev iOS para entender um pouco do mundo dos nativos para desenvolver aplicativos 🤩"
-  },
-  {
     "id": 16,
     "title": "As 9 Softskills mais desejadas pelas empresas",
     "cover": "https://i.ytimg.com/vi/SjY0zj17-8U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCd6xj0PZILKZ-uYlW4iZ3MTYLhdw",
